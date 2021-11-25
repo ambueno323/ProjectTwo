@@ -5,4 +5,7 @@ public class DemoTwo {
 		System.out.println("DEMO TWO");
 	}
 
+	public static void addNum(int a, int b) {
+		System.out.println(a + b);
+	}
 }
